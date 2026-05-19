@@ -36,5 +36,8 @@ $product = new ProductModel();
 ```
 
 ## Imagen
-
+Ejecución de prueba.php
 ![Terminal](img/terminal.png)
+
+Ejecución de index.php 
+![Index] (img/index.jpeg)

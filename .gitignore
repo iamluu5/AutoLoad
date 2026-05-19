@@ -1,8 +1,43 @@
+# ============================================
+# Alumna: Luisa De Gracia
+# Materia: Desarrollo de Software VII
+# Profesora: Irina Fong
+# ============================================
+
+# Dependencias de Composer
 /vendor/
-/composer.lock
-/.idea/
-/.vscode/
-*.log
-*.tmp
+composer.lock
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 .DS_Store
+.env
+.env.local
+
+# Sistema operativo
 Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+
+# Cache
+.cache/
+cache/
+
+# Archivos de configuración local
+config.local.php
+settings.local.php
+
+# Archivos de prueba
+test-results/
+coverage/
